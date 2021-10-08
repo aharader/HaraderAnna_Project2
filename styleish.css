@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align: center; 
+	background-color: rgba(156,156,156,1.00);
+	font-size: 50px
+}
+
+.pre{
+	text-align: left;
+}
+
+h1{
+	background-color: rgba(255,0,4,0.70);
+}
+
+button{
+	background-color: rgba(156,156,156,1.00);
+}
+
+/*page2*/
+
+body{
+	background-color: rgba(226,226,226,1.00);
+}
+
+p{
+	text-align: center;
+	font-size: 100;
+	color: black;
+}
+
+a{
+	color: black;
+}
+
+/*pagelip*/
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.placement{
+	width: 535px;
+	height: 600px;
+	
+		
+}
+
+.placement2{
+	width: 1024px;
+	height: 768.5px;
+}
+
+img{
+	background-color: rgba(138,134,134,1.00);
+}
+
+
+
+
+
